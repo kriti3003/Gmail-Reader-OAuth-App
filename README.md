@@ -141,3 +141,4 @@ You can install Redis using `Homebrew`:
 
 5. **Open your browser**:  
     Open [http://localhost:3000](http://localhost:3000) to see the app in action.
+
